@@ -20,22 +20,16 @@ cd projex-backend
 2. Install dependencies
 Once inside the project directory, install all required dependencies:
 
-bash
-Copy
 npm install
 
 3. Setup environment variables
 Copy the example environment variables file to create a new .env file:
 
-bash
-Copy
 cp .env.example .env
 Edit the .env file to add your specific environment settings.
 
 4. Start the server
 Finally, start the server with the following command:
 
-bash
-Copy
 npm start
 The server should now be running locally, and you can access it at http://localhost:3000.
