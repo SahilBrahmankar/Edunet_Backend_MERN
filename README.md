@@ -1,5 +1,5 @@
 # Edunet_Backend_MERN
-# Project Management System (Backend)
+## Project Management System (Backend)
 
 ## Requirements
 
@@ -10,7 +10,7 @@
 
 Follow these steps to clone the repository and set up the project.
 
-### 1. Clone the repository
+1. Clone the repository
 
 First, clone the repository to your local machine:
 
@@ -18,13 +18,14 @@ First, clone the repository to your local machine:
 git clone https://github.com/yourusername/planify-backend.git
 cd projex-backend
 
-### 2. Install dependencies
+2. Install dependencies
 Once inside the project directory, install all required dependencies:
 
 bash
 Copy
 npm install
-### 3. Setup environment variables
+
+3. Setup environment variables
 Copy the example environment variables file to create a new .env file:
 
 bash
@@ -32,7 +33,7 @@ Copy
 cp .env.example .env
 Edit the .env file to add your specific environment settings.
 
-### 4. Start the server
+4. Start the server
 Finally, start the server with the following command:
 
 bash
