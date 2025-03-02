@@ -7,14 +7,13 @@
 - [npm](https://npmjs.com/) (Node Package Manager)
 
 ## Setup Instructions
-
+```bash
 Follow these steps to clone the repository and set up the project.
 
 1. Clone the repository
 
 First, clone the repository to your local machine:
 
-```bash
 git clone https://github.com/yourusername/planify-backend.git
 cd projex-backend
 
